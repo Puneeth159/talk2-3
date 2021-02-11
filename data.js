@@ -1,4 +1,4 @@
 export default[
-    {area1:"You have choosen Area 1"},
-    {area2:"You have choosen Area 2"}
+    {hotspot1:"You have choosen Area 1"},
+    {hotspot2:"You have choosen Area 2"}
 ]
