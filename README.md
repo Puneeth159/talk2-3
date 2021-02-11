@@ -1,7 +1,15 @@
 # talk2-3
-This is about a game app
+------------------------------
+- This is about a game app named "Talk2-3".
+
+## Instructions 
+--------------------------------
+- When you click a "Button 1" on left side of the screen, it displays a message as "Clicked on green color" with audio.
+- When you click a "Button 2" on right side of the screen then, you will hear a message as "Clicked on grey color" and displays same on that panel.
+
 
 ## Team- Members
+---------------------------------------
 <table>
 <td align="center"><a href="https://github.com/sudheera96"><img src="https://avatars.githubusercontent.com/u/22390581?s=460&u=e2a3ccb663ae34048a4c2233bb9a530d2de29a9c&v=4" width="100px;" alt=""/><br /><sub><b>Sri Sudheera Chitipolu</b></sub></a><br /></td>
 
