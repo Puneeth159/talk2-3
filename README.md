@@ -1,6 +1,8 @@
 # talk2-3
 ------------------------------
 - This is about a game app named "Talk2-3".
+- [Hosted App link](https://puneeth159.github.io/talk2-3/)
+- [Source Repo](https://github.com/Puneeth159/talk2-3)
 
 ## Instructions 
 --------------------------------
