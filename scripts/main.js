@@ -1,3 +1,4 @@
+
 function onClickArea1() {
 
     document.getElementById("talk-display").style.backgroundColor = "#32CD32";
